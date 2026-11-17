@@ -3,7 +3,7 @@ name = "SigmaOS-rsnapshot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "rsnapshot component"
+description = "Rsnapshot"
 upstream = []
 
 [contract]
